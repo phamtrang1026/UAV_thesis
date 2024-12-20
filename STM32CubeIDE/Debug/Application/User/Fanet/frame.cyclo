@@ -1,0 +1,33 @@
+C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623\tools\bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/include/c++/12.3.1/cmath:1756:3:constexpr float std::round(float)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/macaddr.h:23:2:MacAddr::MacAddr()	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/macaddr.h:27:14:bool MacAddr::operator!=(const MacAddr&) const	3
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/word.h:27:17:int NOTZERO(uint64_t, uint64_t)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/word.h:35:22:uint64_t PAD(int)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/word.h:37:22:uint64_t DSEP()	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/word.h:41:22:uint64_t CLEAR(uint64_t, int)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/word.h:52:22:uint64_t LOADBYTES(const uint8_t*, int)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/word.h:58:18:void STOREBYTES(uint8_t*, uint64_t, int)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/permutations.h:30:18:void P12ROUNDS(ascon_state_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/permutations.h:75:18:void P6ROUNDS(ascon_state_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/permutations.h:106:18:void P(ascon_state_t*, int)	3
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/permutations.h:125:6:void P12(ascon_state_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/permutations.h:141:6:void P6(ascon_state_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:14:18:void ascon_loadkey(ascon_key_t*, const uint8_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:25:18:void ascon_initaead(ascon_state_t*, const ascon_key_t*, const uint8_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:52:18:void ascon_adata(ascon_state_t*, const uint8_t*, uint64_t)	4
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:83:18:void ascon_encrypt(ascon_state_t*, uint8_t*, const uint8_t*, uint64_t)	3
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:118:18:void ascon_decrypt(ascon_state_t*, uint8_t*, const uint8_t*, uint64_t)	3
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:162:18:void ascon_final(ascon_state_t*, const ascon_key_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:188:18:void ascon_gettag(ascon_state_t*, uint8_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:193:17:int ascon_verify(ascon_state_t*, const uint8_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:200:5:int ascon_aead_encrypt(uint8_t*, uint8_t*, const uint8_t*, uint64_t, const uint8_t*, uint64_t, const uint8_t*, const uint8_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:214:5:int ascon_aead_decrypt(uint8_t*, const uint8_t*, const uint8_t*, uint64_t, const uint8_t*, uint64_t, const uint8_t*, const uint8_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:227:5:int crypto_aead_encrypt(uint8_t*, uint32_t*, uint8_t*, uint32_t, uint8_t*, uint32_t, uint8_t*, uint8_t*, uint8_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/ascon/aead.h:237:5:int crypto_aead_decrypt(uint8_t*, uint32_t*, uint8_t*, uint32_t, uint8_t*, uint32_t, uint8_t*, uint8_t*, uint8_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/frame.cpp:31:6:static void Frame::coord2payload_absolut(float, float, uint8_t*)	2
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/frame.cpp:50:6:void Frame::parseFrameData(char*)	2
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/frame.cpp:86:6:void Frame::data_encrypt()	9
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/frame.cpp:114:5:int Frame::serialize(uint8_t*&)	28
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/frame.cpp:183:1:Frame::Frame(int, uint8_t*)	5
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/frame.cpp:227:1:Frame::Frame()	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/frame.cpp:232:6:bool Frame::operator==(const Frame&) const	7

@@ -1,0 +1,2 @@
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/jump.c:13:6:jump_app	16	static,ignoring_inline_asm
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/jump.c:39:6:jump_mcu_bootloader	16	static,ignoring_inline_asm

@@ -1,0 +1,4 @@
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/serial.c:27:6:serialRxCallback	8	static
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/serial.c:65:11:serial_init	8	static
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/serial.c:83:6:serial_poll	24	static
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/serial.c:107:6:serial_print	16	static

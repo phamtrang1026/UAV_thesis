@@ -1,0 +1,8 @@
+../../Drivers/CMSIS/Include/core_cm4.h:1933:34:void __NVIC_SystemReset()	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/fmac.h:176:7:void FanetMac::handle()	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/app.h:105:7:void App::begin(Serial_Interface&)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/fanet.cpp:30:6:void fanet_init(serial_t*)	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/fanet.cpp:53:6:void fanet_init_fake()	2
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/fanet.cpp:75:6:void fanet_sx_int()	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/fanet.cpp:80:6:void fanet_pps_int()	1
+D:/stm32cube/Project1/SubGHz_Phy_PingPong/Core/Fanet/fanet.cpp:88:6:void fanet_loop()	2

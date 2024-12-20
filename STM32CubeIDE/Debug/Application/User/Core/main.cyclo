@@ -1,0 +1,4 @@
+../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_rcc.h:1257:22:void LL_RCC_LSE_SetDriveCapability(uint32_t)	1
+../Application/User/Core/main.cpp:64:5:int main()	1
+../Application/User/Core/main.cpp:110:6:void SystemClock_Config()	3
+../Application/User/Core/main.cpp:162:6:void Error_Handler()	1
